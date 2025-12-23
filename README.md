@@ -45,4 +45,8 @@ The application allows an admin to manage customer accounts and enables customer
 2. Start **Apache** and **MySQL**
 
 <img width="1917" height="950" alt="image" src="https://github.com/user-attachments/assets/05aab186-1a96-46a3-994d-067439a208ab" />
+<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/757feca9-d7f9-4eb4-ba2b-a870e2002595" />
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/c06a3884-9dc8-4c32-890b-f321d4803eec" />
+
+
 
