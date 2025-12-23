@@ -43,4 +43,6 @@ The application allows an admin to manage customer accounts and enables customer
 
 1. Install **XAMPP**
 2. Start **Apache** and **MySQL**
-3. Copy the project folder into:
+
+<img width="1917" height="950" alt="image" src="https://github.com/user-attachments/assets/05aab186-1a96-46a3-994d-067439a208ab" />
+
