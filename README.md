@@ -1,4 +1,4 @@
-# Bank Management System (Core PHP)
+# Bank Management System 
 
 This is a simple Bank Management System developed using Core PHP and MySQL.  
 The application allows an admin to manage customer accounts and enables customers to securely view their own profile details.
